@@ -1,5 +1,6 @@
 # scrimba-react-projects
 
+PROJECTS LIST
 <table>
   <tr>
     <td>AirBnb Clone</td>
